@@ -1,3 +1,10 @@
+/*
+	Q. WAP to display the following:
+		a. Kernel version
+		b. CPU type and model
+		c. Information on configured memory, amount of free and used memory
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<getopt.h>
