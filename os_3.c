@@ -1,3 +1,7 @@
+/*
+    Q. WAP to copy a source file into the target file and display the target file using system calls.
+*/
+
 #include<stdlib.h>
 #include<stdio.h>
 #include<getopt.h>
