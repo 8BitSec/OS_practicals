@@ -1,3 +1,7 @@
+/*
+	Q. Write program to understand working of Pthread library.
+*/
+
 #include<stdio.h>
 #include<stdlib.h>				// for atoi()
 #include<pthread.h>
