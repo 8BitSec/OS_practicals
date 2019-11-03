@@ -1,3 +1,10 @@
+/*
+	Q. WAP (using fork() and/or exec() commands) where parent and child execute:
+		a. same program, same code		
+		b. same program, different code
+		c. different programs			<-- this program
+*/
+
 #include<stdio.h>
 #include<sys/types.h>
 #include<unistd.h>
