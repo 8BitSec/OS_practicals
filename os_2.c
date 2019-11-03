@@ -1,3 +1,8 @@
+/*
+	Q. WAP to print file details including owner access permissions, file access time, where file name is given as a 
+	   command line argument.
+*/
+
 #include<stdio.h>
 #include<fcntl.h>
 #include<time.h>
