@@ -1,6 +1,6 @@
 /*
 	Q. WAP to demonstrate producer-consumer problem using shared memory.
-				^this program
+					^this program
 */
 
 #include<stdio.h>
