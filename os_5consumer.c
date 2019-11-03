@@ -1,3 +1,8 @@
+/*
+	Q. WAP to demonstrate producer-consumer problem using shared memory.
+				^this program
+*/
+
 #include<stdio.h>
 #include<fcntl.h>
 #include<sys/mman.h>
