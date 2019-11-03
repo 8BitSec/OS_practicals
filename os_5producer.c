@@ -1,3 +1,8 @@
+/*
+	Q. WAP to demonstrate producer-consumer problem using shared memory.
+				 ^this program
+*/
+
 #include<stdio.h>
 #include<string.h>			// for strlen()
 #include<fcntl.h>			// for O_* flags
