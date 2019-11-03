@@ -1,3 +1,7 @@
+/*
+	Q. WAP to demonstrate Inter Process Communication (IPC) between parent and child using pipe system call.
+*/
+
 #include<stdio.h>
 #include<unistd.h>
 #include<string.h>
