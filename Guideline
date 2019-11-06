@@ -28,10 +28,3 @@ pipe system call.
   f. Round Robin
 
 9. WAP to implement firstfit, bestfit and worstfit allocation strategies.
-
-10. WAP to map logical addresses to physical addresses in a paging scheme. Define the
-necessary data structures required for the program. Page size and physical memory size
-should be taken as input from the user. Also accept process id and its size from the user and
-allocate memory to the process. Make an interactive program to perform the following:
-  a. Accept a process id and page no and display frame number for a valid input
-  b. Accept a process id to deallocate and display the frame table.
