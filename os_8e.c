@@ -55,7 +55,7 @@ int main()
       sum_turnaround+=time+1-p[smallest].at-p[smallest].bt;
     }
   }
-  printf("\nAvg waiting time = %f\n",sum_wait*1.0/n);
-  printf("Avg turnaround time = %f",sum_turnaround*1.0/n);
+  printf("\n\n\tAvg waiting time = %f\n",sum_wait*1.0/n);
+  printf("\n\tAvg turnaround time = %f",sum_turnaround*1.0/n);
   return 0;
 }
